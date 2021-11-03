@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<konferencia>
+	<cim/>
+	<hallgatók>
+		<hallgató>
+			<név>"Gulyás Gábor"</név>
+			<lakcím>"Eger"</lakcím>
+		</hallgató>
+	</hallgatók>
+	<helyszin>"Miskolci Egyetem"</helyszin>
+	<előadó>
+		<név>"Nagy Imre"</név>
+		<adószám>8010203045</adószám>
+		<lakcím>"Miskolc"</lakcím>
+	</előadó>
+	<dátum>"2021.09.24"</dátum>
+</konferencia>
