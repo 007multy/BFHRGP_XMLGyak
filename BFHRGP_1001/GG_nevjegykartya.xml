@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nevjegykartyak>
+	<nevjegykartya id="1">
+		<nev>Kis Erno</nev>
+		<ceg>
+			<cim>
+				<iranyitoszam>3300</iranyitoszam>
+				<varos>Eger</varos>
+				<utca>Rakoczi ut</utca>
+				<hazszam>1</hazszam>	
+			</cim>
+			<telefonszam korzet="1">361666666</telefonszam>
+			<weblap>weblab.hu</weblap>
+		</ceg>
+		<beosztas>konyvtaros</beosztas>
+		<telefonszam korzet="2">362666666</telefonszam>
+		<email>email@email.com</email>
+	</nevjegykartya>
+</nevjegykartyak>
