@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE note href: "GG_note.dtd">
+<!DOCTYPE note SYSTEM "GG_note.dtd">
 <note>
 <to>Péter</to>
 <from>Jani</from>
