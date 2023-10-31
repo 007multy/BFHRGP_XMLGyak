@@ -1,7 +1,0 @@
-<!ELEMENT cats (cat,name,age,breed)>
-<!ELEMENT cat (#PCDATA)>
-<!ELEMENT name (#PCDATA)>
-<!ELEMENT age (#PCDATA)>
-<!ELEMENT breed (#PCDATA)>
-
-<!ATTLIST cat id ID #REQUIRED>

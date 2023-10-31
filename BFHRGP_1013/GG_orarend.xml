@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orarend SYSTEM "GG_orarend.dtd">
+<orarend>
+	<ora id="20230915" tipus="GEIAK130-BL">
+		<targy>Mesterséges intelligencia alapok</targy>
+		<idopont>
+			<nap>09.15</nap>
+			<tol>12:30</tol>
+			<ig>19:20</ig>
+		</idopont>
+		<helyszin>In/114 </helyszin>
+		<oktato>Kunné Dr. Tamás Judit</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20230922" tipus="GEIAL31H-BL">
+		<targy>Szoftvertesztelés</targy>
+		<idopont>
+			<nap>09.22</nap>
+			<tol>12:30</tol>
+			<ig>15:50</ig>
+		</idopont>
+		<helyszin>In/101</helyszin>
+		<oktato>Tompa Tamás</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20231006" tipus="GEIAL31H-BL">
+		<targy>Szoftvertesztelés</targy>
+		<idopont>
+			<nap>10.06</nap>
+			<tol>12:30</tol>
+			<ig>15:50</ig>
+		</idopont>
+		<helyszin>In/101</helyszin>
+		<oktato>Tompa Tamás</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20231013" tipus="GEIAK120-BL">
+		<targy>Integrált vállalati rendszerek</targy>
+		<idopont>
+			<nap>10.13</nap>
+			<tol>16:00</tol>
+			<ig>19:20</ig>
+		</idopont>
+		<helyszin>In/15</helyszin>
+		<oktato>Dr. Samad Dadvandipour</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20231020" tipus="GEIAL31H-BL">
+		<targy>Szoftvertesztelés</targy>
+		<idopont>
+			<nap>10.20</nap>
+			<tol>12:30</tol>
+			<ig>15:50</ig>
+		</idopont>
+		<helyszin>In/101</helyszin>
+		<oktato>Tompa Tamás</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20231020" tipus="GEIAK130-BL">
+		<targy>Mesterséges intelligencia alapok</targy>
+		<idopont>
+			<nap>10.20</nap>
+			<tol>16:00</tol>
+			<ig>19:20</ig>
+		</idopont>
+		<helyszin>In/15</helyszin>
+		<oktato>Fazekas Levente</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20231027" tipus="GEIAK120-BL">
+		<targy>Integrált vállalati rendszerek</targy>
+		<idopont>
+			<nap>10.27</nap>
+			<tol>12:30</tol>
+			<ig>15:50</ig>
+		</idopont>
+		<helyszin>In/15</helyszin>
+		<oktato>Kulcsárné Dr.Forrai Mónika</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20231027" tipus="GEIAL31H-BL">
+		<targy>Szoftvertesztelés</targy>
+		<idopont>
+			<nap>10.27</nap>
+			<tol>16:00</tol>
+			<ig>19:20</ig>
+		</idopont>
+		<helyszin>In/101</helyszin>
+		<oktato>Tompa Tamás</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20231103" tipus="GEIAK130-BL">
+		<targy>Mesterséges intelligencia alapok</targy>
+		<idopont>
+			<nap>11.03</nap>
+			<tol>16:00</tol>
+			<ig>19:20</ig>
+		</idopont>
+		<helyszin>In/15</helyszin>
+		<oktato>Fazekas Levente</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20231110" tipus="GEIAK120-BL">
+		<targy>Integrált vállalati rendszerek</targy>
+		<idopont>
+			<nap>11.10</nap>
+			<tol>12:30</tol>
+			<ig>15:50</ig>
+		</idopont>
+		<helyszin>In/15</helyszin>
+		<oktato>Dr. Samad Dadvandipour</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+
+	<ora id="20231117" tipus="GEIAK120-BL">
+		<targy>Integrált vállalati rendszerek</targy>
+		<idopont>
+			<nap>11.17</nap>
+			<tol>16:00</tol>
+			<ig>19:20</ig>
+		</idopont>
+		<helyszin>In/15</helyszin>
+		<oktato>Kulcsárné Dr.Forrai Mónika</oktato>
+		<szak>mérnökinformatikus</szak>
+	</ora>
+</orarend>	
